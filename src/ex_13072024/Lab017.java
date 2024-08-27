@@ -17,13 +17,13 @@ public class Lab017 {
         byte b =100;
         short s = 101;
         int age = 130;
-        long phone_number = 9876543212;//9878787888
+        long phone_number = 987654322;//9878787888
        // Integral - byte, short, int, long,
         // char  - A, B
         char grade = 'A';
 
         //floating - float , double
-        float pi = 3.14; // 3.14F;
+        float pi = 3.14F; // 3.14F;
         double d = 118.65;
 
         //Non Primitive data types

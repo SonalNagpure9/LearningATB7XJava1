@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72992b2d-da33-4d1d-b1da-a511b8219723" name="Changes" comment="all files added">
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab029.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab034.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab036.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +79,10 @@
     "Application.Lab026.executor": "Run",
     "Application.Lab027.executor": "Run",
     "Application.Lab030.executor": "Run",
+    "Application.Lab032.executor": "Run",
+    "Application.Lab034.executor": "Run",
+    "Application.Lab035.executor": "Run",
+    "Application.Lab036.executor": "Run",
     "Application._Lab009.executor": "Run",
     "Application.ex_13072024.Lab017.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -82,59 +90,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab030">
-    <configuration name="Lab024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab024" />
-      <module name="LearningATB7XJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab025" />
-      <module name="LearningATB7XJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab026" />
-      <module name="LearningATB7XJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab027" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab027" />
-      <module name="LearningATB7XJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab036">
     <configuration name="Lab030" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab030" />
       <module name="LearningATB7XJava" />
@@ -148,13 +104,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab032" />
+      <module name="LearningATB7XJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab034" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab034" />
+      <module name="LearningATB7XJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab035" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab035" />
+      <module name="LearningATB7XJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab036" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab036" />
+      <module name="LearningATB7XJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab036" />
+        <item itemvalue="Application.Lab035" />
+        <item itemvalue="Application.Lab034" />
+        <item itemvalue="Application.Lab032" />
         <item itemvalue="Application.Lab030" />
-        <item itemvalue="Application.Lab025" />
-        <item itemvalue="Application.Lab027" />
-        <item itemvalue="Application.Lab026" />
-        <item itemvalue="Application.Lab024" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725272121664</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="all files added">
+      <option name="closed" value="true" />
+      <created>1725288110453</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725288110454</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

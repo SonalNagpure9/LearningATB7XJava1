@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72992b2d-da33-4d1d-b1da-a511b8219723" name="Changes" comment="all files added">
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab037.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab038.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab039.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab040.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab041.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab042.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab043.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab044.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab046.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab048.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab049.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab050.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningATB7XJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearningATB7XJava Final.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab036.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab036.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +89,11 @@
     "Application.Lab041.executor": "Run",
     "Application.Lab042.executor": "Run",
     "Application.Lab044.executor": "Run",
+    "Application.Lab046.executor": "Run",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab048.executor": "Run",
+    "Application.Lab049.executor": "Run",
+    "Application.Lab050.executor": "Run",
     "Application._Lab009.executor": "Run",
     "Application.ex_13072024.Lab017.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -102,9 +101,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab044">
-    <configuration name="Lab039" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab039" />
+  <component name="RunManager" selected="Application.Lab050">
+    <configuration name="Lab046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab046" />
       <module name="LearningATB7XJava Final" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab040" />
+    <configuration name="Lab047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab047" />
       <module name="LearningATB7XJava Final" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab041" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab041" />
+    <configuration name="Lab048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab048" />
       <module name="LearningATB7XJava Final" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab042" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab042" />
+    <configuration name="Lab049" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab049" />
       <module name="LearningATB7XJava Final" />
       <extension name="coverage">
         <pattern>
@@ -155,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab044" />
+    <configuration name="Lab050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab050" />
       <module name="LearningATB7XJava Final" />
       <extension name="coverage">
         <pattern>
@@ -170,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab044" />
-        <item itemvalue="Application.Lab042" />
-        <item itemvalue="Application.Lab041" />
-        <item itemvalue="Application.Lab040" />
-        <item itemvalue="Application.Lab039" />
+        <item itemvalue="Application.Lab050" />
+        <item itemvalue="Application.Lab049" />
+        <item itemvalue="Application.Lab048" />
+        <item itemvalue="Application.Lab047" />
+        <item itemvalue="Application.Lab046" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725351279033</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="all files added">
+      <option name="closed" value="true" />
+      <created>1726476074266</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1726476074266</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -338,6 +345,20 @@
           <url>file://$PROJECT_DIR$/src/ex_13072024/Lab030.java</url>
           <line>4</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_13072024/Lab046.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex_13072024/Lab046.java</url>
+          <line>3</line>
+          <properties class="ex_13072024.Lab046" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -5,22 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72992b2d-da33-4d1d-b1da-a511b8219723" name="Changes" comment="all files added">
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab057.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab058.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab059.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab060.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab061.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab062.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab063.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab064.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab065.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab066.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab067.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab068.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab069.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab070.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab072.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab073.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab074.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab077.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab080.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab081.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab071.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab071.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +114,14 @@
     "Application.Lab066.executor": "Run",
     "Application.Lab067.executor": "Run",
     "Application.Lab071.executor": "Run",
+    "Application.Lab073.executor": "Run",
+    "Application.Lab074.executor": "Run",
+    "Application.Lab075.executor": "Run",
+    "Application.Lab076.executor": "Run",
+    "Application.Lab078.executor": "Run",
+    "Application.Lab079.executor": "Run",
+    "Application.Lab080.executor": "Run",
+    "Application.Lab081.executor": "Run",
     "Application._Lab009.executor": "Run",
     "Application.ex_13072024.Lab017.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -125,9 +129,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab071">
-    <configuration name="Lab064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab064" />
+  <component name="RunManager" selected="Application.Lab081">
+    <configuration name="Lab076" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab076" />
       <module name="LearningATB7XJava Final" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab065" />
+    <configuration name="Lab078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab078" />
       <module name="LearningATB7XJava Final" />
       <extension name="coverage">
         <pattern>
@@ -152,8 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab066" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab066" />
+    <configuration name="Lab079" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab079" />
       <module name="LearningATB7XJava Final" />
       <extension name="coverage">
         <pattern>
@@ -165,8 +169,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab067" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab067" />
+    <configuration name="Lab080" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab080" />
       <module name="LearningATB7XJava Final" />
       <extension name="coverage">
         <pattern>
@@ -178,8 +182,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab071" />
+    <configuration name="Lab081" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab081" />
       <module name="LearningATB7XJava Final" />
       <extension name="coverage">
         <pattern>
@@ -193,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab071" />
-        <item itemvalue="Application.Lab067" />
-        <item itemvalue="Application.Lab066" />
-        <item itemvalue="Application.Lab065" />
-        <item itemvalue="Application.Lab064" />
+        <item itemvalue="Application.Lab081" />
+        <item itemvalue="Application.Lab080" />
+        <item itemvalue="Application.Lab079" />
+        <item itemvalue="Application.Lab078" />
+        <item itemvalue="Application.Lab076" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726804980923</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="all files added">
+      <option name="closed" value="true" />
+      <created>1727691559729</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1727691559729</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,6 +402,11 @@
           <url>file://$PROJECT_DIR$/src/ex_13072024/Lab046.java</url>
           <line>4</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_14072024/Lab078.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ex_13072024/Lab046.java</url>
